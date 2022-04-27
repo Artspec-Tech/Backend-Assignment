@@ -160,3 +160,6 @@ cd json-server
 # สั่งให้ server ทำงานด้วย yarn
 yarn start
 ```
+
+## Additional requirement by Tontan
+- ใช้ Typescript ในการเขียน express
